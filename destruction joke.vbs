@@ -1,0 +1,1 @@
+x=msgbox("creating destruction... haha jk... unless..?", 0+48, "initiating destruction")
